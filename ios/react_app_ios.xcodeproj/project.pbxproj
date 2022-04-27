@@ -483,8 +483,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QM7CCU8RD8;
+				DEVELOPMENT_TEAM = HMFUVPH683;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = react_app_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -498,6 +499,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.rdmlue.rdbitrise;
 				PRODUCT_NAME = react_app_ios;
+				PROVISIONING_PROFILE_SPECIFIER = Rdmlue;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -511,8 +513,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QM7CCU8RD8;
+				DEVELOPMENT_TEAM = HMFUVPH683;
 				INFOPLIST_FILE = react_app_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -525,6 +528,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.rdmlue.rdbitrise;
 				PRODUCT_NAME = react_app_ios;
+				PROVISIONING_PROFILE_SPECIFIER = Rdmlue;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";

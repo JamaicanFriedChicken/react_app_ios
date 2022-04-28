@@ -486,7 +486,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = HMFUVPH683;
+				DEVELOPMENT_TEAM = QM7CCU8RD8;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = react_app_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -517,7 +517,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = HMFUVPH683;
+				DEVELOPMENT_TEAM = QM7CCU8RD8;
 				INFOPLIST_FILE = react_app_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
